@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dinesh Johnson
+# 👋 Hi, I'm Dinesh J
 
 🎯 I'm a Java Developer Intern currently building full-stack web applications using **Java**, **MySQL**, and **HTML**, with a strong focus on backend development and RESTful APIs.
 
